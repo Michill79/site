@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -481,6 +482,20 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#header1-1 .mbr-section-title {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  color: #ffffff;
+  font-size: 48px;
+}
+#header1-1 .mbr-section-lead {
+  color: #ffffff;
+}
+#header1-1 .mbr-section-title SPAN {
+  text-align: right;
+  color: #ffffff;
+  font-size: 48px;
 }
 #testimonials4-u .mbr-section-title {
   text-align: center;
